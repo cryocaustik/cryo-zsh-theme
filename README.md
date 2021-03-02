@@ -1,4 +1,4 @@
-# cryo zsh theme
+# cryo zsh theme - US date and time mod
 
 [ohmyzsh](https://ohmyz.sh/) theme
 clone of [robbyrussel](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell) theme with a date and time stamp.
